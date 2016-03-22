@@ -1,0 +1,20 @@
+Iki sayili sistemlerdeki girdiler ve değişkenler  num1 num2 ve sign içeren bir struct ve belli başlı belirlenmiş değişkenler
+şeklinde olacaktır. Bu sayılar önce bir sayı sonra işaret ve sonra bir sayı alarak devam etmeli. Bu şekilde işlem sonucunu vermeli.
+Amma velakin faktoryel gibi tek sayılı işlemlerde program (!) işaretini algılayıp 2. sayıyı istemeden sonucu vermelidir.
+Ayrıyeten combinasyon ve permutasyonda ilk sayı ikinci sayıdan küçük olduğu takdirde sayı lar tekrar istenmeli. Ebob Ekok gibi 
+işlemlerde sayılar tam bölünememesi için double float yerine int alınmalı. Türev ve integral gibi olaylar için kullanıcı en başta
+ikiye ayrılan bir yolda denklemsel mi işlemselmi olduğunu seçerek ilerlemeli. Önemle söylüyorumki proje tamamiyle ingilizce olcaktır.
+
+Inputlar (Islevsel): num1 num2 sign
+Inputlar (Denklemsel): ???
+Outputlar (Islevsel): result
+Outputlar (Denklemsel): ???
+
+
+   Konular
+ (Branchlar):
+
+ - process
+ - main-input
+ - main-output
+ - controll
