@@ -3,14 +3,14 @@
 *Our target will be all question will be able to solve*
 
 ### This Statements Will Be In v1.0:
- -4 Trading
- -GCD
- -LCD
- -Permutaition
- -Combination
- -Factorial
- -Derivative 
- -Integral
+ - 4 Trading
+ - GCD
+ - LCD
+ - Permutaition
+ - Combination
+ - Factorial
+ - Derivative 
+ - Integral
 
 
 
