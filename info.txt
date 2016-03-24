@@ -9,3 +9,7 @@ double num1,num2
 char sign
 result
 funct içindeki değişkenleri kendinizde belirleye bilirsiniz. 
+
+
+Ayrıyeten kullandığınız dil ingilizce olsun lütfen 
+İyi çalışmalar
