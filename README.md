@@ -13,6 +13,6 @@
  - Integral
 
 
-[Small information for workers ^^](https://github.com/SmallProjectsPau/CalcuPau/info.txt)
+[Small information for workers ^^](https://github.com/SmallProjectsPau/CalcuPau/blob/master/info.md)
 
 ###Coming Soon
