@@ -1,6 +1,6 @@
-##This Repistory Will Be Scientific CalcuPau's Open Sources Codes
-*This program is will be written in 'C' and it will solve a lot of mathematical questions directly.*
-*Our target will be all question will be able to solve*
+##This Repository Will Be About Scientific Calculator 
+*This program will be written in 'C' and it will solve a lot of mathematical questions directly.*
+*Our target is solving all type of mathematical problems.*
 
 ### This Statements Will Be In v1.0:
  - 4 Trading
